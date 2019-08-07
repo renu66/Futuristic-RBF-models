@@ -1,0 +1,1 @@
+change the dataset in decision_tree.m folder(main) to effectively run the decision tree code
