@@ -1,0 +1,1 @@
+change the dataset in random_forest.m folder(main) to effectively run the random forest code(here 4 trees are implemented with randomly selected data from given dataset)
